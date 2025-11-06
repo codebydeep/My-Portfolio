@@ -6,10 +6,10 @@ const Skills = () => {
     <>
       <div className="w-full flex justify-center bg-black">
         <div className="bg-black text-white flex justify-center border-[0.7px] border-dashed border-gray-700">
-          <div className="w-[80vw] md:w-[50vw] p-2 ">
+          <div className="w-[90vw] sm:w-[70vw] md:w-[70vw] lg:w-[50vw] p-2 ">
             <div className="p-4">
               <h2 className="text-2xl font-semibold pb-5">My Skills</h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 {/* // boxes here - */}
                 <div className="max-w-sm p-4 border border-gray-500 rounded-xl shadow-sm">
                   <h3 className="flex items-center gap-2 font-semibold mb-5">
