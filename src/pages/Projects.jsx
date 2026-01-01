@@ -19,7 +19,7 @@ const Projects = () => {
                   {/* Title + Buttons Row */}
                   <div className="flex justify-between items-center w-full flex-wrap gap-2">
                     <div className="text-xs sm:text-sm uppercase font-semibold opacity-70 tracking-wider">
-                      CodePoint
+                      CodeCamp
                     </div>
 
                     <div className="flex gap-2">
@@ -75,7 +75,7 @@ const Projects = () => {
                   {/* Title + Buttons Row */}
                   <div className="flex justify-between items-center w-full flex-wrap gap-2">
                     <div className="text-xs sm:text-sm uppercase font-semibold opacity-70 tracking-wider">
-                      CodePoint
+                      Grok AI Agent
                     </div>
 
                     <div className="flex gap-2">
